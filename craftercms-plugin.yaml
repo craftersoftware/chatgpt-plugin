@@ -15,15 +15,15 @@ plugin:
     minor: 0
     patch: 14
   description: OpenAI ChatGPT Integration
-  documentation: "https://raw.githubusercontent.com/craftercms/chatgpt-plugin/main/README.md"
+  documentation: "https://raw.githubusercontent.com/craftersoftware/chatgpt-plugin/main/README.md"
   website:
     name: ChatGPT Plugin
-    url: https://github.com/craftercms/chatgpt-plugin
+    url: https://github.com/craftersoftware/chatgpt-plugin
   media:
     screenshots:
       - title: ChatGPT Plugin
         description: CrafterCMS ChatGPT Plugin
-        url: "https://raw.githubusercontent.com/craftercms/chatgpt-plugin/main/.crafter/logo.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/chatgpt-plugin/main/.crafter/logo.png"
   developer:
     company:
       name: CrafterCMS
